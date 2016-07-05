@@ -10,7 +10,7 @@
     "Doctrine",
     "Postmark"
   ],
-  "homepage": "https://github.com/smart-io/emailqueue",
+  "homepage": "https://github.com/gavroche/email-queue",
   "license": "MIT",
   "authors": [
     {
