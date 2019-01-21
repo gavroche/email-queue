@@ -27,7 +27,6 @@
   },
   "require-dev": {
     "phpunit/phpunit": "~4",
-    "sinergi/gearman": "<1",
     "videlalvaro/php-amqplib": "2.5.*",
     "znarkus/postmark": "dev-master"
   },
